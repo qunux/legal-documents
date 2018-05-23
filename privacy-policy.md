@@ -47,7 +47,7 @@ Qunux uses personal information that you provide to us to deliver content on our
 
 Here is a list of the ways that we may use your personal information, and which of the Legal Bases outlined above we rely on to do so.
 
-<table>
+<table id="policy_table">
   <tr>
     <th>Purpose/Activity</th>
     <th>Type of Data</th>
