@@ -1,75 +1,123 @@
-We recognise and respect your right to privacy. This policy explains how Qunux Consulting Ltd (Qunux) collects and handles data. Please read the following carefully to understand our views and practices regarding your data and how we will treat it.
+We take our obligation to protect the privacy of your personal information seriously. Qunux Consulting Ltd (Qunux) complies fully with the General Data Protection Regulation (GDPR). This policy details what data we collect and how we handle and store that data.
 
-##### Types of Information
+##### What information do we collect?
 
- - Personal Information is information that enables us to identify you,
-   such as your email address, name, mailing address, telephone number,
-   company name, and credit card information.
- - Your Information is information you store in, or transfer to, any of our  products or services, whether or not it is Personal Information.
 
-##### How We Protect Information
+  -  Information that can personally identify you, such as first name, maiden name, last name, username or similar identifier, photograph, postal address, email address, or telephone number.
+  - Transaction Data includes details about payments to and from you and other details of products and services you have purchased from us.
+  -  Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website(s).
+  -  Information that you provide when you fill in forms on our Websites.
+  -  Records and copies of your correspondence (including email addresses and social media handles), if you contact us.
+  -  Profile Data includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  - Usage Data includes information about how you use our website, products and services.
 
-Qunux is committed to taking steps to protect the Information you provide to us, including administrative, technical, and physical measures - to safeguard Information against loss, theft, and misuse, as well as against unauthorised access, disclosure, alteration, and destruction.
+
+##### How do we keep your information secure?
+
+Qunux is committed to maintaining appropriate technical and organizational security measures designed to protect your personal information from loss, theft, and misuse, as well as against unauthorised access, disclosure, alteration, and destruction.
 
 Information is accessed only by authorised staff who are instructed to handle Information with confidentiality. It is protected by firewalls and standard industry security measures. We may also transmit sensitive information and transactional data using Transport Layer Security (TLS) encryption.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect Information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received Information, we will use strict procedures and security features to try to prevent unauthorised access.
+Although we implement and maintain security measures that are appropriate for our business activities, please be aware that no security measures are perfect or impenetrable and any transmission of personal information is at your own risk.
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website site or our products and services, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+You must also make sure that your information is safe and secure. We are not responsible if you circumvent any privacy settings or security measures on our Websites. Even if we give you (or you have chosen) a password for access to certain parts of our Websites, you are responsible for keeping this password confidential. Do not share your password with anyone. Please be careful about giving out information in public areas of our Websites, for example, community message boards or forums. The information you share in public areas may be viewed by any user of our Websites. We cannot control the actions of other users of our Websites with whom you choose to share your information; as such we cannot guarantee your contributed information cannot be viewed by unauthorized parties.
 
-##### How We Use Information
+##### How do we use your information?
 
-We use the Information you supply in the following ways:
+Qunux uses personal information that you provide to us to deliver content on our Websites, plan and host Marketing Activities, and to provide our Services and Consulting:
 
- - to assign a password.
- - to ensure that content from our website and services are presented in
-   the most efficient manner for you.
- - to provide you with information, products or services that you
-   request from us or which we feel may interest you, where you have
-   consented to be contacted for such purposes.
- - to carry out our obligations arising from any contracts entered into
-   between you and us.
- - to allow you to participate in interactive features, such as “Live
-   Chat”, when you choose to do so.
- - to notify you about changes to our products or services.
- - to take other action you request when you supply the Information.
- - to provide the service(s) you have requested
 
-##### Sharing Information With Third Parties and Within Qunux
+  -  To present our Websites and their contents to you.
+  -  To allow you to participate in interactive features on our Websites.
+  -  To enhance the experience of using our Websites, Services, and Marketing Activities.
+  -  To manage your access to the Services.
+  -  To carry out our obligations and enforce our rights that arise from any contracts entered into between you and us, including for billing and collection.
+  -  To provide you with notices about your account and/or subscription, including expiration and renewal notices.
+  -  To notify you about changes to our Websites or Services.
+  -  To provide you with information or services that you request from us.
+  -  To communicate with you about Marketing Activities, which may include promotional information.
+  -  To send promotional information and other communications regarding our products or Services.
+  -  To create a list of actual and prospective users and subscribers for our products or Services.
+  -  To assemble statistics regarding the use of our Websites, product or Services.
+  -  To prevent fraud or abuse.
+  -  To comply with any legal or regulatory obligations.
+  -  For any other purpose we describe at the time we collect information.
+  -  For any reason you engage us.
+  -  For any other purpose with your consent.
 
-We do not sell, hire, lease or rent the personal information we collect to anyone at this time. Unless we have your permission, are required by law, are required to do so in order to enforce or apply our terms of use and other agreements with you or are required to do so to protect the rights, property or safety of Qunux, our customers or others, we will only provide personal information to other Qunux entities within our group, and to third parties who assist Qunux operate our websites, resell our products or services, or help us with some products or services we provide. Data provided to third parties is stored on systems we do not own and is provided in accordance with our policies.
+Here is a list of the ways that we may use your personal information, and which of the Legal Bases outlined above we rely on to do so.
 
-In addition, we may disclose your personal information to third parties (i) in the event we sell or buy any business or assets, in which case we may disclose your Personal Information to the prospective seller or buyer of such business or assets; or (ii) if Qunux or substantially all of its assets are acquired by a third party, in which case Information held by it about its customers and partners will be one of the transferred assets.
+|Purpose/Activity| Type of Data | Reason (Legal Basis) |
+|--|--|--|
+| To register you as a new customer | (a) Identity<br>(b) Contract | Contract |
+| To process and deliver your order including:<br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us | (a) Identity<br>(b) Contact<br>(c) Financial<br>(d) Transaction<br>(e) Marketing and Communications | Contract<br>Legitimate Interest |
+| To manage our relationship with you which will include:<br>(a) Notifying you about changes to our terms or privacy policy<br>(b) Asking you to leave a review or take a survey | (a) Identity<br>(b) Contact<br>(c) Profile<br>(d) Marketing and Communications | Contract<br>Legal Obligation<br>Legitimate Interest |
+| To administer and protect our business and our website(s) (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity<br>(b) Contact<br>(c) Technical | Contract<br>Legal Obligation |
+| To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical<br>(b) Usage | Legitimate Interest |
+| To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity<br>(b) Contact<br>(c) Technical<br>(d) Usage<br>(e) Profile | Legitimate Interest |
+| To improve customer service | (a) Identity<br>(b) Contact | Consent<br>Legitimate Interest |
 
-We may transfer your information across border and from your country or jurisdiction to other countries or jurisdictions around the world. The data we collect from you may be transferred to, and stored in the United States or another destination outside the European Economic Area (“EEA”). It may also be processed by staff operating in the United States or otherwise outside the EEA. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of services. By submitting your Information, you agree to this transfer, storing or processing.
+##### When and how do we share your personal information with others?
 
-##### Your Control over Information
+We do not sell, hire, lease or rent the personal information we collect to outside parties.
 
-When you register for an account or submit Information to Qunux , we will occasionally contact you via email, postal mail, or telephone. This contact may involve notification of new services being offered by Qunux. You may opt-out of this contact by deactivating your account. If you no longer wish to maintain an account with Qunux, please go to our contact us, [click here](mailto:support@qunux.com) and we will remove you from our contacts list.
+Qunux is a global organisation with business processes and technical systems in various countries. As such, we may share information about you within our group company and transfer it to countries in the world where we do business in connection with the uses identified in the section above and in accordance with this Privacy Policy. In these cases, personal data will be transferred to countries that do not provide an adequate level of protection under European law so we ensure your data is protected by entering into agreements containing standard contract clauses with each of our group companies a copy of which may be obtained by contacting us.
 
-In addition, you have the right to access Information held about you. Please visit our [contact information page](/contact-us) or email our [webmaster](mailto:webmaster@qunux.com) for more details.
+We may also transfer your personal data to trusted third parties in order to serve purposes that are specified in the section above. In circumstances where data is shared with such third parties, they are required to agree to confidentiality terms. This prohibits such third parties from selling, trading, using, marketing or otherwise distributing Qunux customer data.
 
-##### Use of the Qunux Websites:
+We may also release your information when we believe release is appropriate to comply with the law or protect our rights, property, or safety. It is our policy to notify customers of requests for their data from law enforcement unless we are prohibited from doing so by statute or court order. Law enforcement officials who believe that notification would jeopardise an investigation should obtain an appropriate court order or other process that specifically precludes member notification.
 
-###### PERSONAL INFORMATION COLLECTED:
+We may also disclose your personal information to third parties who may take over the operation of our website or business or who may purchase any or all of our assets, including your personal information. We will contact you using the details you provide if there is any change in the person controlling your information.
 
-You may use most of our websites without supplying any personal information. However, sites or certain parts of a site are available only if you obtain a password. Qunux collects personal information when you register for a password, and at various other places on our site where you may obtain or request other information or services. We may also ask you for information when you report a problem with our site. If you contact us, we may keep a record of that correspondence. We may also collect personal information when you carry out a payment transaction through our site, request an evaluation or enter into “Live Chat” via the site.
+##### How Long Do We Keep Your Personal Data?
 
-In addition, we automatically log the domain name of where you came from, the IP address your computer is currently using, the type of web browser that you use, Internet Service Provider (ISP), referring and exit pages, operating system, date/time stamp, and click-stream data. This information allows us to improve the site by serving the pages you visit, and we may use the information for statistical purposes and to track usage patterns. In addition, we use the data we collect to make various determinations in our systems. We do not use this information to personally identify you, the user.
+The personal information we collect is retained for no longer than necessary to fulfil the stated purposes in the section above or for a period specifically required by law or regulation that Qunux is obligated to follow.
 
-###### USE OF COOKIES
+Personal data used to fulfil verification of certain types of products such as SSL certificates and Domain names, and this data will be retained for a minimum of 10 years depending on the class of product or service and may be retained in either a physical or electronic format.
+
+Even if you request deletion or erasure of your data, we may retain your personal data to the extent necessary and for so long as necessary for our legitimate business interests or performance of contractual obligations.
+
+After the retention period is over, Qunux securely disposes or anonymises your personal information in order to prevent loss, theft, misuse, or unauthorised access.
+
+##### Access to your personal data
+
+You are responsible for providing Qunux with true, accurate, current and complete personal information. You are also responsible to maintain and promptly update the information to keep it true, accurate, current and complete. You have the right to access and modify your personal data stored on Qunux systems. You can request to access or modify your personal information by logging into your customer control panel. We may require you to provide identification in order to verify the authenticity as the data subject.
+
+If you provide any information that is untrue, inaccurate, not current or incomplete, or if we have reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future services
+
+##### Your rights in compliance with the European Union rules on privacy
+
+You have the following rights established by law:
+
+  - We use the data you submit only for purposes identified in the above sections of this privacy policy.
+  - You have the right to review your personal data that Qunux holds and check it for accuracy.
+  - You have the right to correct data in the case that errors may be found in our records.
+  - You have the right to request that any of your personal data be erased. i.e. right to be forgotten.
+   - You have the right to obtain and reuse use your personal data for your own purposes.
+  - You have the right to request that Qunux restrict the processing of your personal data under certain circumstances.
+  - You have the right to object to our processing of your personal data.
+
+##### Use of cookies
 
 Qunux uses cookies for your convenience to store information so you do not have to reenter your data upon each visit. Cookies and other technology are also used to monitor usage of the various features and services of our site, which over time gives us information to improve our site, and to advertise and market our products more effectively. To view the types of cookies Qunux uses on its websites, please click here .
 
 When you visit our websites, cookies will be placed on your computer or device. To maximise your experience and to help us understand how we can improve our site. If you prefer not to receive cookies, you can set your browser to either reject all cookies, to allow “trusted” sites to set them, or to accept only those cookies from those sites you are currently on. However turning off cookies will hinder your ability to access, use, or navigate portions of the site.
 
-###### LINKS TO OTHER SITES
+[click here for more details on how we use cookies.](https://qunux.com/policies/cookies)
 
-Our site contains links to other sites. If you choose to visit any of those sites then their privacy policies would apply. The Qunux Privacy Policy applies solely to the information collected from the Qunux web site. We do not accept any responsibility or liability for third party policies. Please check these policies before you submit any personal information to these websites.
+##### Third-party links
 
-##### Data Protection
+Our website(s) may include links to third-party websites, plug-ins and applications.
 
-The Data Protection Act 1998 gives you the right to access information held about you. Any access request will be subject to an administration fee of [£5/10] to meet our costs in providing the information requested.
+Clicking on those links or enabling those connections may allow third parties to collect or share data about you.
+
+We do not control these third-party websites and are not responsible for their privacy statements.
+
+When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+##### Data Controller
+
+The Data Protection Act 1998 gives you the right to access information held about you. Any access request may be subject to an administration fee of £5 to £10 to meet our costs in providing the information requested.
 
 For the purposes of the Data Protection Act 1998, the data controller is QunuX Consulting Limited (Company Registration Number 7791787) whose registered office is at International House, 124 Cromwell Road, Kensington, London, England, SW7 4ET.
 
@@ -77,4 +125,4 @@ For the purposes of the Data Protection Act 1998, the data controller is QunuX C
 
 If we change the way we use your personal information we will post the change here on our web site. We recommend that you regularly visit this page to learn of any changes. The change will apply to information our users furnish after the change, and information we have on file for existing users.
 
-If you have any questions regarding this policy or our use of personally identifiable information on this site, please send us your questions or comments to the [webmaster](mailto:webmaster@qunux.com).
+If you have any questions regarding this policy or our use of personally identifiable information on this site, please send us your questions or comments to the [support](mailto:support@qunux.com).
