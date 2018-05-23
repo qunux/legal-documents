@@ -47,15 +47,48 @@ Qunux uses personal information that you provide to us to deliver content on our
 
 Here is a list of the ways that we may use your personal information, and which of the Legal Bases outlined above we rely on to do so.
 
-|Purpose/Activity| Type of Data | Reason (Legal Basis) |
-|--|--|--|
-| To register you as a new customer | (a) Identity<br>(b) Contract | Contract |
-| To process and deliver your order including:<br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us | (a) Identity<br>(b) Contact<br>(c) Financial<br>(d) Transaction<br>(e) Marketing and Communications | Contract<br>Legitimate Interest |
-| To manage our relationship with you which will include:<br>(a) Notifying you about changes to our terms or privacy policy<br>(b) Asking you to leave a review or take a survey | (a) Identity<br>(b) Contact<br>(c) Profile<br>(d) Marketing and Communications | Contract<br>Legal Obligation<br>Legitimate Interest |
-| To administer and protect our business and our website(s) (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity<br>(b) Contact<br>(c) Technical | Contract<br>Legal Obligation |
-| To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical<br>(b) Usage | Legitimate Interest |
-| To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity<br>(b) Contact<br>(c) Technical<br>(d) Usage<br>(e) Profile | Legitimate Interest |
-| To improve customer service | (a) Identity<br>(b) Contact | Consent<br>Legitimate Interest |
+<table>
+  <tr>
+    <th>Purpose/Activity</th>
+    <th>Type of Data</th>
+    <th>Reason (Legal Basis)</th>
+  </tr>
+  <tr>
+    <td>To register you as a new customer</td>
+    <td>(a) Identity<br>(b) Contract</td>
+    <td>Contract</td>
+  </tr>
+  <tr>
+    <td>To process and deliver your order including:<br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us</td>
+    <td>(a) Identity<br>(b) Contact<br>(c) Financial<br>(d) Transaction<br>(e) Marketing and Communications</td>
+    <td>Contract<br>Legitimate Interest</td>
+  </tr>
+  <tr>
+    <td>To manage our relationship with you which will include:<br>(a) Notifying you about changes to our terms or privacy policy<br>(b) Asking you to leave a review or take a survey</td>
+    <td>(a) Identity<br>(b) Contact<br>(c) Profile<br>(d) Marketing and Communications</td>
+    <td>Contract<br>Legal Obligation<br>Legitimate Interest</td>
+  </tr>
+  <tr>
+    <td>To administer and protect our business and our website(s) (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)</td>
+    <td>(a) Identity<br>(b) Contact<br>(c) Technical</td>
+    <td>Contract<br>Legal Obligation</td>
+  </tr>
+  <tr>
+    <td>To use data analytics to improve our website, products/services, marketing, customer relationships and experiences</td>
+    <td>(a) Technical<br>(b) Usage</td>
+    <td>Legitimate Interest</td>
+  </tr>
+  <tr>
+    <td>To make suggestions and recommendations to you about goods or services that may be of interest to you</td>
+    <td>(a) Identity<br>(b) Contact<br>(c) Technical<br>(d) Usage<br>(e) Profile</td>
+    <td>Legitimate Interest</td>
+  </tr>
+  <tr>
+    <td>To improve customer service</td>
+    <td>(a) Identity<br>(b) Contact</td>
+    <td>Consent<br>Legitimate Interest</td>
+  </tr>
+</table>
 
 ##### When and how do we share your personal information with others?
 
