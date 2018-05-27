@@ -9,7 +9,7 @@ Cookies generally do not hold any information to identify an individual person, 
 
 If you prefer, you can restrict, block or delete cookies by changing your browser settings but that may mean that the website won't work properly
 
-For more information about cookies and their impact on you and your browsing visit [www.aboutcookies.org](www.aboutcookies.org)
+For more information about cookies and their impact on you and your browsing visit [www.aboutcookies.org](https://www.aboutcookies.org)
 
 #### Types of cookies
 
