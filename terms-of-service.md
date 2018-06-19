@@ -1,5 +1,5 @@
 ##### Who do these terms apply to?
-This agreement is made between Qunux Consulting Ltd t/a QunuX, a limited company registered in England and Wales with company number 7791787 and VAT Registration Number GB120 9456 29, with the registered office International House, 124 Cromwell Road, Kensington, London, England, SW7 4ET ("QunuX" which expression shall include all or any of its subsidiaries, agents, successors and assigns), and you the customer ("Customer" which expression shall include its permitted successors and assigns).
+This agreement is made between Qunux Consulting Ltd t/a QunuX, a limited company registered in England and Wales with company number 7791787, with the registered office International House, 124 Cromwell Road, Kensington, London, England, SW7 4ET ("QunuX" which expression shall include all or any of its subsidiaries, agents, successors and assigns), and you the customer ("Customer" which expression shall include its permitted successors and assigns).
 
 ##### Payments
 
